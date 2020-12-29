@@ -1,4 +1,7 @@
 node_modules
+.next
+.env
+.env.build
 package-lock.json
 *.log
 *.gz
